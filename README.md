@@ -23,6 +23,7 @@ It features a responsive design, SEO‑friendly structure, and modern frontend t
 
 ## 📂 Project Structure
 
+```
 lucky-carpet-cleaning/
 ├── dist/ # Dist The optimized files
 ├── public/ # Static assets (images, icons, favicon)
@@ -33,6 +34,7 @@ lucky-carpet-cleaning/
 ├── index.html # Root HTML file
 ├── package.json # Dependencies and scripts
 └── README.md # Project documentation
+```
 
 ---
 
